@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Swipetab Sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="greetingA">Hello, I\'m Fragment A. Nice to meet you.</string>
+    <string name="greetingB">Howdy, I\'m fragment B. Have a nice day.</string>
+
+</resources>
